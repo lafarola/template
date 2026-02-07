@@ -70,3 +70,4 @@ src/
 | `npm run build` | **Modo Producción:** Empaqueta la app para subirla a internet. |
 | `npm run start` | Inicia la versión empaquetada (generalmente no lo usarás en local). |
 | `npm run lint` | Revisa si hay errores básicos en el código. |
+| `npx shadcn@latest init --yes --defaults --force` | Reinicia la plantilla visual del proyecto |
