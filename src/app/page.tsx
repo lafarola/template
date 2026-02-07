@@ -39,7 +39,7 @@ export default function Home() {
         />
         <div className="parallax-overlay" />
         <div className="hero-content">
-          <p className="hero-eyebrow">✦ Destino Exclusivo 2025 ✦</p>
+          <p className="hero-eyebrow">✦ Destino Exclusivo 2026 ✦</p>
           <h1 className="hero-title">
             Vibe<span className="accent">Coding</span>
           </h1>
